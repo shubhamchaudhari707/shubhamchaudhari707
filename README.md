@@ -11,8 +11,8 @@ Welcome to my Github page! I am Shubham Chaudhari and I am currently finishing m
 
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
+- Finish my Mechanical Engineering Bachelor Degree  
+- Taking online courses about Python and  Django 
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
