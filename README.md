@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### This is Shubham Chaudhari!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](github.com/shubhamchaudhari707)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/shubham-chaudhari-4822b91ba)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shubhamchaudhari707)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-chaudhari-4822b91ba/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 Welcome to my Github page! I am Shubham Chaudhari and I am currently finishing my Mechanical Engineering Bachelor degree at the Pune University!  
